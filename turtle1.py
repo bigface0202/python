@@ -28,3 +28,5 @@ elif year == 1989:
 else:
     print("平成",year-1988, "年")
 input()
+
+print("変更しました")
