@@ -1,0 +1,6 @@
+AnimalClassifier
+Key:
+3edc0202289fbffacd6929f6d6403971
+
+Secret:
+4c14a21d32fd7e77
